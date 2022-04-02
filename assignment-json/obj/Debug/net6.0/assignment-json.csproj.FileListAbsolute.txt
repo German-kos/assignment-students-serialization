@@ -1,0 +1,15 @@
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\bin\Debug\net6.0\assignment-json.exe
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\bin\Debug\net6.0\assignment-json.deps.json
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\bin\Debug\net6.0\assignment-json.runtimeconfig.json
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\bin\Debug\net6.0\assignment-json.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\bin\Debug\net6.0\ref\assignment-json.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\bin\Debug\net6.0\assignment-json.pdb
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\obj\Debug\net6.0\assignment-json.csproj.AssemblyReference.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\obj\Debug\net6.0\assignment-json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\obj\Debug\net6.0\assignment-json.AssemblyInfoInputs.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\obj\Debug\net6.0\assignment-json.AssemblyInfo.cs
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\obj\Debug\net6.0\assignment-json.csproj.CoreCompileInputs.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\obj\Debug\net6.0\assignment-json.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\obj\Debug\net6.0\ref\assignment-json.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\obj\Debug\net6.0\assignment-json.pdb
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-json\assignment-json\obj\Debug\net6.0\assignment-json.genruntimeconfig.cache

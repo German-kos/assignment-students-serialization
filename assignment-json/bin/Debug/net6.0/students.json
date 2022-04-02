@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Moshe",
+    "Age": 45,
+    "Tuition": 10000
+  },
+  {
+    "Name": "David",
+    "Age": 34,
+    "Tuition": 10000
+  },
+  {
+    "Name": "Raine",
+    "Age": 23,
+    "Tuition": 9000
+  },
+  {
+    "Name": "Joe",
+    "Age": 41,
+    "Tuition": 10000
+  },
+  {
+    "Name": "Dana",
+    "Age": 24,
+    "Tuition": 9000
+  },
+  {
+    "Name": "Ramya",
+    "Age": 35,
+    "Tuition": 10000
+  },
+  {
+    "Name": "Ahab",
+    "Age": 45,
+    "Tuition": 10000
+  },
+  {
+    "Name": "Barry",
+    "Age": 18,
+    "Tuition": 9000
+  }
+]
